@@ -1,0 +1,748 @@
+
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1920__1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920__1 {
+		position: absolute;
+		width: 1640px;
+		height: 1637px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Footer {
+		position: absolute;
+		width: 1640px;
+		height: 1617px;
+		left: 0px;
+		top: 20px;
+		overflow: visible;
+	}
+	#BG {
+		position: absolute;
+		width: 1640px;
+		height: 100px;
+		left: 0px;
+		top: 1517px;
+		overflow: visible;
+	}
+	#Rectangle_1 {
+		fill: rgba(0,0,0,1);
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1640px;
+		height: 100px;
+		left: 0px;
+		top: 0px;
+	}
+	#Logo {
+		position: absolute;
+		width: 229px;
+		height: 35px;
+		left: 703px;
+		top: 1545px;
+		overflow: visible;
+	}
+	#INTERNSHALA {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 230px;
+		white-space: nowrap;
+		line-height: 30px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Poppins-Black;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 2px;
+	}
+	#Social_Media {
+		position: absolute;
+		width: 1360px;
+		height: 1574.067px;
+		left: 137px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Facebook__twitter__youtube__in {
+		left: 61.286px;
+		top: 1555.067px;
+		position: absolute;
+		overflow: visible;
+		width: 350px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: FontAwesome5Brands-Regular;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_1_n {
+		fill: rgba(68,104,226,1);
+	}
+	.Rectangle_1_n {
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		height: 33px;
+		left: 1271px;
+		top: 0px;
+	}
+	#Connect {
+		left: 1287px;
+		top: 4px;
+		position: absolute;
+		overflow: visible;
+		width: 56px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.38px;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 816px;
+		height: 22px;
+		left: 255px;
+		top: 3px;
+		overflow: visible;
+	}
+	#JOBS {
+		opacity: 0.75;
+		left: 227px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 37px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#TRAINING {
+		opacity: 0.75;
+		left: 372px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#CAREERS {
+		opacity: 0.75;
+		left: 532px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#ABOUT_US {
+		opacity: 0.75;
+		left: 741px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#INTERNSHIPS {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 108px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Group_2 {
+		position: absolute;
+		width: 94px;
+		height: 20px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#INTERNSHALA_w {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(68,104,226,1);
+		letter-spacing: -0.38px;
+	}
+	#Group_3 {
+		position: absolute;
+		width: 1344px;
+		height: 44px;
+		left: 7px;
+		top: 1019px;
+		overflow: visible;
+	}
+	#PROFILE {
+		opacity: 0.75;
+		left: 234px;
+		top: 14px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#EMPLOYEMENT__TYPE {
+		opacity: 0.75;
+		left: 446px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 115px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#APPLIED_ON {
+		opacity: 0.75;
+		left: 673px;
+		top: 14px;
+		position: absolute;
+		overflow: visible;
+		width: 88px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#NOOF_APPLICANTS {
+		opacity: 0.75;
+		left: 844px;
+		top: 14px;
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#COMPANY {
+		left: 0px;
+		top: 14px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#APPLICATION_STATUS {
+		opacity: 0.75;
+		left: 1067px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 97px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#REVIEW__APPLICATION_ {
+		opacity: 0.75;
+		left: 1244px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Group_4 {
+		position: absolute;
+		width: 1316.575px;
+		height: 286px;
+		left: 7px;
+		top: 1153px;
+		overflow: visible;
+	}
+	#Web_Development {
+		opacity: 0.75;
+		left: 211px;
+		top: 2px;
+		position: absolute;
+		overflow: visible;
+		width: 132px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Internship {
+		opacity: 0.75;
+		left: 479px;
+		top: 2px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#n_0072000 {
+		opacity: 0.75;
+		left: 689px;
+		top: 2px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#n_00 {
+		opacity: 0.75;
+		left: 918px;
+		top: 2px;
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#ChefAtHome_bd {
+		left: 0px;
+		top: 2px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Under_review {
+		opacity: 0.75;
+		left: 1086px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Icon_material-find-in-page {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_material-find-in-page {
+		overflow: visible;
+		position: absolute;
+		width: 20.5px;
+		height: 30px;
+		left: 1296.075px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ChefAtHome_bd {
+		left: 0px;
+		top: 2px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Web_Development_be {
+		opacity: 0.75;
+		left: 211px;
+		top: 137px;
+		position: absolute;
+		overflow: visible;
+		width: 132px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Internship_bf {
+		opacity: 0.75;
+		left: 479px;
+		top: 137px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#n_0072000_bg {
+		opacity: 0.75;
+		left: 689px;
+		top: 137px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#n_00_bh {
+		opacity: 0.75;
+		left: 918px;
+		top: 137px;
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Under_review_bi {
+		opacity: 0.75;
+		left: 1086px;
+		top: 136px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Icon_material-find-in-page_bj {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_material-find-in-page_bj {
+		overflow: visible;
+		position: absolute;
+		width: 20.5px;
+		height: 30px;
+		left: 1296.075px;
+		top: 135px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ChefAtHome_bk {
+		left: 0px;
+		top: 137px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Web_Development_bl {
+		opacity: 0.75;
+		left: 211px;
+		top: 258px;
+		position: absolute;
+		overflow: visible;
+		width: 132px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Internship_bm {
+		opacity: 0.75;
+		left: 479px;
+		top: 258px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#n_0072000_bn {
+		opacity: 0.75;
+		left: 689px;
+		top: 258px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#n_00_bo {
+		opacity: 0.75;
+		left: 918px;
+		top: 258px;
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Under_review_bp {
+		opacity: 0.75;
+		left: 1086px;
+		top: 257px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Icon_material-find-in-page_bq {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_material-find-in-page_bq {
+		overflow: visible;
+		position: absolute;
+		width: 20.5px;
+		height: 30px;
+		left: 1296.075px;
+		top: 256px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ChefAtHome_br {
+		left: 0px;
+		top: 258px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Proxima Nova Alt;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(28,73,97,1);
+		letter-spacing: -0.38px;
+	}
+	#Copyrights {
+		position: absolute;
+		width: 202px;
+		height: 20px;
+		left: 1234.911px;
+		top: 1553.067px;
+		overflow: visible;
+	}
+	#n_020_Copyrights__Protected {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 203px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Poppins-Medium;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#MY_APPLICATIONS {
+		left: 644px;
+		top: 885px;
+		position: absolute;
+		overflow: visible;
+		width: 347px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 42px;
+		color: rgba(112,112,112,1);
+	}
+	#n_627634 {
+		position: absolute;
+		width: 1640px;
+		height: 917.5px;
+		left: 0px;
+		top: 1px;
+		overflow: visible;
+	}
